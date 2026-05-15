@@ -1,6 +1,6 @@
-# intogis-playwright
+# playwright-ts-template
 
-IntoGIS IHO 포털의 E2E 자동화 테스트 프로젝트입니다. Playwright를 사용하여 로그인, 지도 메인 화면, 차트 검색/필터 UI 등을 테스트합니다.
+E2E 자동화 테스트 템플릿 프로젝트입니다. 예시로 INToGIS의 로그인, 지도 메인 화면, 차트 검색/필터 UI 등을 테스트합니다.
 
 ---
 
